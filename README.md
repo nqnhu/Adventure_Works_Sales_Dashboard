@@ -10,7 +10,7 @@ This PowerBI dashboard was built using Microsoft's official AdventureWorks datas
 ## Project Overview 
 This project is divided into four main sections: 
 1. **Sales Summary:** - Provides an at-a-glance view of overall sales performance, including key metrics such as total sales, profit, and order volume. - Includes trend analysis, year-over-year (YOY) comparisons, and monthly sales performance. 
-2. **Products:** - Offers a detailed breakdown of product performance, focusing on the top 20 products by sales and profit margins. - Highlights the "Bikes" category, which dominates the sales volume, and provides insights into product profitability and management efficiency. 
+2. **Products:** - Offers a detailed breakdown of product performance and provides insights into product profitability and management efficiency. 
 3. **Internet (B2C Customers):** - Analyzes sales performance for direct customers through online channels, offering insights into customer behavior and sales trends. 
 4. **Reseller (B2B Customers):** - Focuses on reseller sales, providing a detailed view of B2B transactions and performance metrics for different resellers. 
 
