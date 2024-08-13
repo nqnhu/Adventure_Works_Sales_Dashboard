@@ -1,5 +1,5 @@
 
-# AdventureWorks Sales Dashboard - 2023 Edition 
+# AdventureWorks Sales Dashboard
 
 Welcome to the **AdventureWorks Sales Dashboard** project! 
 
@@ -20,7 +20,7 @@ This project is divided into four main sections:
 
 ## How to Use 
 1. **Clone the Repository:** 
-```bash git clone https://github.com/yourusername/adventureworks-sales-dashboard.git```
+```bash git clone https://github.com/nqnhu/Adventure_Works_Sales_Dashboard.git```
 2.  **Open the PowerBI File:**
     -   Load the `.pbix` file into PowerBI Desktop to explore the dashboard.
 3.  **Navigate the Dashboard:**
@@ -31,7 +31,7 @@ This project is divided into four main sections:
 
 ## Dataset
 
-The dataset used in this project is the official [AdventureWorks](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) sample data provided by Microsoft, which includes various tables such as orders, customers, resellers, and products.
+The dataset used in this project is the official [AdventureWorks](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx) sample data provided by Microsoft, which includes various tables such as orders, customers, resellers, and products.
 
 ## Contributing
 
